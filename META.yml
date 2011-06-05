@@ -1,0 +1,26 @@
+---
+abstract: 'perl5 plugin for perl5i'
+author:
+  - 'Ingy döt Net <ingy@ingy.net>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.01'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+module_name: perl5::i
+name: perl5-i
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  perl: 5.10.0
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/ingydotnet/perl5-i-pm.git
+version: 0.01
