@@ -20,9 +20,12 @@ no_index:
     - t
     - xt
 requires:
+  Time::y2038: 20100403
   perl: 5.10.0
+  perl5: 0.03
   perl5i: v2.6.1
 resources:
+  homepage: http://github.com/ingydotnet/perl5-i-pm/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ingydotnet/perl5-i-pm.git
-version: 0.05
+version: 0.06
