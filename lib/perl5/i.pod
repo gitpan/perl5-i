@@ -14,6 +14,20 @@ This is effectively a shorter way of writing:
 
     use perl5i::latest;
 
+=head1 THE END
+
+                                 \         .  ./
+                               \      .:";'.:.."   /
+                                   (M^^.^~~:.'").
+                             -   (/  .    . . \ \)  -
+      O                         ((| :. ~ ^  :. .|))
+     |\\                     -   (\- |  \ /  |  /)  -
+     |  T                         -\  \     /  /-
+    / \[_]..........................\  \   /  /
+
+"If you're going to hand users a bomb, at least put warning labels on it."
+-- Michael Schwern L<perl5i::latest>
+
 =head1 SEE ALSO
 
 =over
@@ -28,7 +42,11 @@ L<perl5i>
 
 =item *
 
-L<perl5-1i>
+L<perl5i::latest>
+
+=item *
+
+L<http://gurno.com/adam/ascii/bomb.shtml>
 
 =back
 
