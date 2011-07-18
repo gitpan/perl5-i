@@ -28,4 +28,4 @@ resources:
   homepage: http://github.com/ingydotnet/perl5-i-pm/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ingydotnet/perl5-i-pm.git
-version: 0.06
+version: 0.07
