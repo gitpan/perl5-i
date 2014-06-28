@@ -1,35 +1,24 @@
----
-version: 0.07
-date:    Sun Jul 17 22:52:57 PDT 2011
-changes:
-- Switch to new perl5 API
----
-version: 0.06
-date:    Sun Jun 12 03:41:59 EST 2011
-changes:
-- Upgrade Module::Package to make sure perl5.pm gets required
----
-version: 0.05
-date:    Sun Jun 12 00:42:13 EST 2011
-changes:
-- Add a warning for Schwern.
----
-version: 0.04
-date:    Fri Jun 10 14:59:52 EST 2011
-changes:
-- Add Time::y2038 as prereq until perl5i does so itself.
----
-version: 0.03
-date:    Wed Jun  8 02:00:01 EST 2011
-changes:
-- Make sure perl5i is picked up as a prereq
----
-version: 0.02
-date:    Tue Jun  7 17:28:47 EST 2011
-changes:
-- Make sure that perl5.pm is a prerequisite
----
-version: 0.01
-date:    Sun Jun  5 23:29:22 EST 2011
-changes:
-- First Release
+0.08 Fri Jun 27 19:24:20 PDT 2014
+ - Switch to Zilla::Dist
+
+0.07 Sun Jul 17 22:52:57 PDT 2011
+ - Switch to new perl5 API
+
+0.06 Sun Jun 12 03:41:59 EST 2011
+ - Upgrade Module::Package to make sure perl5.pm gets required
+
+0.05 Sun Jun 12 00:42:13 EST 2011
+ - Add a warning for Schwern.
+
+0.04 Fri Jun 10 14:59:52 EST 2011
+ - Add Time::y2038 as prereq until perl5i does so itself.
+
+0.03 Wed Jun  8 02:00:01 EST 2011
+ - Make sure perl5i is picked up as a prereq
+
+0.02 Tue Jun  7 17:28:47 EST 2011
+ - Make sure that perl5.pm is a prerequisite
+
+0.01 Sun Jun  5 23:29:22 EST 2011
+ - First Release
+
