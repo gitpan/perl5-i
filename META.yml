@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/perl5-i-pm/issues
   homepage: https://github.com/ingydotnet/perl5-i-pm
   repository: https://github.com/ingydotnet/perl5-i-pm.git
-version: '0.08'
+version: '0.09'
