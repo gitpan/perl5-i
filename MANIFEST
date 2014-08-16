@@ -15,6 +15,5 @@ lib/perl5/i1.pm
 lib/perl5/i1.pod
 lib/perl5/i2.pm
 lib/perl5/i2.pod
-t/000-require-modules.t
 t/autobox.t
 t/release-pod-syntax.t
