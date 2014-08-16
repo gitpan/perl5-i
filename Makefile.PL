@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
     "perl5" => "0.10",
     "perl5i" => "v2.6.1"
   },
-  "VERSION" => "0.09",
+  "VERSION" => "0.10",
   "test" => {
     "TESTS" => "t/*.t"
   }
